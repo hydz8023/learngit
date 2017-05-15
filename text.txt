@@ -1,2 +1,2 @@
 git学习
-第二步
+git is a distributed version control system.
